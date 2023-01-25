@@ -1,6 +1,6 @@
 {
   "name": "to-relative-paths",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces tsconfig-related paths or aliases to relative",
   "main": "bin/index.js",
   "bin": {
